@@ -29,7 +29,7 @@
 
 (asdf:defsystem #:twitgraph
     :name "twitgraph"
-    :description "Query a hashtag/mention in Twitter. Render a network of tags into a Graphviz Dot Diagram."
+    :description "Create network graphs from Twitter hashtags."
     :version "0.1"
     :maintainer "Kenan Bölükbaşı <kenanbolukbasi@gmail.com>"
     :licence "BSD"
